@@ -1,0 +1,8 @@
+--- 
+vendor/lucky-luciano: 
+  squashed: true
+  url: git://github.com/btakita/lucky-luciano.git
+  branch: master
+  type: git
+  revision: 5bb9f2e7f37e52e80577cc0015a73e8b7fa5d2c8
+  remote: braid/vendor/lucky-luciano
