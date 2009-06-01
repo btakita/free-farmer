@@ -1,1 +1,1 @@
-resource "/", Resources::WebRoot
+FreeFarmer::Resources::WebRoot.register("/")
